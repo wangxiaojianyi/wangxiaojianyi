@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @wangxiaojianyi
 - 👀 I’m interested in python
 - 🌱 I’m currently learning django
+- 🌱 I’m currently learning flask
+- 🌱 I’m currently learning vue3+elementplus
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me 648885395@qq.com
 
